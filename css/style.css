@@ -36,6 +36,14 @@ body {
   animation-delay: 1s;
   max-width: 300px;
 }
+.footer {
+ position: fixed;
+    bottom: 12px;
+    opacity: 0.6;
+    font-family: Raleway, sans-serif;
+    font-weight: 200;
+    font-size: 14pt;
+}
 @media (max-width: 720px) {
   .container .title {
     display: none;
