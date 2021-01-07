@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/filippoguida/pen/zeLKEp.
+
+ In rule-based art the draw is thi direct result of logic-based systems to implemented to direct the design and creation of the object. The artist forces the draw to conform to certain arbitrary rules, whom represent the artwork itself. This p5.js script create changing texture using only triangles disposed in strategic points on the canvas.
